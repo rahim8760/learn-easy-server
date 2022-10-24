@@ -1,0 +1,101 @@
+[
+    {
+      "id": "01",
+      "image_url": "https://www.smartpassiveincome.com/wp-content/uploads/2020/04/How-to-Create-an-Online-Course.png",
+      "name": "Digital marketing Courses for Beginners",
+      "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
+      "price":"250",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2021-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 700
+    },
+    {
+      "id": "02",
+      "image_url": "https://xtendedview.com/wp-content/uploads/2018/12/java.jpg",
+      "name": "Java for Beginners",
+      "details": "Everyone wants to learn Java programming as soon as possible, but it is not easy. To become a successful Java developer, the only way is to do the practice of all basics and advanced concepts of it. If we follow the following learning path, we can learn Java in one month only.",
+      "price":"200",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-10-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 455
+    },
+    {
+      "id": "03",
+      "image_url": "https://nareshit.com/wp-content/uploads/2019/01/ReactJS-online-training-nareshit.jpg",
+      "name": "Modern React with Redux",
+      "details": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+      "price":"300",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-09-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 230
+    },
+    {
+      "id": "04",
+      "image_url": "https://texceed.in/wp-content/uploads/2020/12/python-02.jpg",
+      "name": "Python for Everybody Specialization",
+      "details": "Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.",
+      "price":"280",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-14 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 560
+    },
+    {
+      "id": "05",
+      "image_url": "https://www.fossmint.com/wp-content/uploads/2020/03/Best-PHP-Courses-for-Beginners.png",
+      "name": "PHP for Beginners - Become a PHP Master - CMS Project",
+      "details": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+      "price":"250",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 450
+    },
+    {
+      "id": "06",
+      "image_url": "https://i.graphicmama.com/blog/wp-content/uploads/2019/04/11142949/online-graphic-design-courses-the-most-comprehensive-guide-11.jpg",
+      "name": "Become a Professional Graphic Designer",
+      "details": "Learn what you need to know to break into the world of graphic design.",
+      "price":"150",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 388
+    },
+    {
+      "id": "07",
+      "image_url": "https://www.reliablesoft.net/wp-content/uploads/2019/11/seo-courses.jpeg",
+      "name": "Online Marketing: SEO & Social Media Marketing Strategy",
+      "details": "2022 growth hacking with top web marketing and Internet marketing strategies: Social media marketing strategies + SEO",
+      "price":"100",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 600
+    }
+    
+  ]
